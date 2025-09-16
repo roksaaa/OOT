@@ -19,3 +19,4 @@ C:\Users\Marko\Desktop\param\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pd
 C:\Users\Marko\Desktop\param\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
 C:\Users\Marko\Desktop\param\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
 C:\Users\Marko\Desktop\param\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Marko\Desktop\param\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json

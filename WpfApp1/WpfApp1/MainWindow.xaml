@@ -103,7 +103,7 @@
                                 <TextBox.Text>
                                     <Binding Path="DatumNabavke" Mode="TwoWay" UpdateSourceTrigger="PropertyChanged">
                                         <Binding.ValidationRules>
-                                            <!--<local:DatumValidationRule /> -->
+                                            <local:DatumValidationRule /> 
                                         </Binding.ValidationRules>
                                     </Binding>
                                 </TextBox.Text>

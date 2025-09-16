@@ -109,7 +109,8 @@ namespace WpfApp1
                 while ((linija = sr.ReadLine()) != null)
                 {
                     string[] delovi = linija.Split(',');
-                    int sifra = int.Parse(delovi[0]);
+                    //int sifra = int.Parse(delovi[0]);
+                    int sifra = biljke.Count;
                     string naucniNaziv = delovi[1];
                     string uobicajeniNaziv = delovi[2];
                     string porodica = delovi[3];
